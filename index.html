@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitieal//EN">
+<html>
+    <head>
+        <title>Flash and JavaScript (RED) Renderer Comparison - FusionCharts</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="node_modules/fusioncharts/fusioncharts.js"></script>
+        <script type="text/javascript" src="data.js"></script>
+        <style type="text/css">
+        	.container {
+        		border: 1px solid #CCCCCC;
+        		height: 700px;
+        		width: 90%;
+        	}
+        	.three-col div {
+        		width: 400px;
+        		height: 280px;
+        		display: inline-block;
+        		/*border: 2px solid #000000;*/
+        		margin: 2px
+        	}
+        </style>
+        <script type="text/javascript">
+
+        	data = {
+    			chart: {},
+    			data: [{value: 500}, {value: 600}, {value: 800}]
+    		}
+
+	        renderChart = function (type, count, data) {
+		        	window['chart' + count] = chart = new FusionCharts({
+		        		type: type,
+		        		dataFormat: 'json',
+		        		width: '400',
+		        		height: '270',
+		        		dataSource: data
+		        	});
+		        	chart.render(('chart-container' + count));
+	        }
+
+        	FusionCharts.ready(function () {
+        		renderChart('StackedColumn2d', 1, yearRevenue);
+        		renderChart('Line', 2, data);
+        		renderChart('Area2D', 3, data);
+        		renderChart('Bar2D', 4, data);
+        		renderChart('Spline', 5, data);
+        		renderChart('SplineArea', 6, data);
+	        });
+
+        </script>
+	</head>
+	<body>
+
+	<div class='container'>
+		<div class='three-col'>
+			<div id='chart-container1'></div>
+			<div id='chart-container2'></div>
+			<div id='chart-container3'></div>
+		</div>
+		<div class='three-col'>
+			<div id='chart-container4'></div>
+			<div id='chart-container5'></div>
+			<div id='chart-container6'></div>
+		</div>
+	</div>
+		
+	</body>
+</html>
