@@ -9,13 +9,13 @@ var fs = require('fs'),
 		password : 'root'
 	});
 
-connection.connect(function(err) {
-  if (err) {
-    console.error('error connecting: ' + err.stack);
-    return;
-  }
-  console.log('connected as id ' + connection.threadId);
-});
+// connection.connect(function(err) {
+//   if (err) {
+//     console.error('error connecting: ' + err.stack);
+//     return;
+//   }
+//   console.log('connected as id ' + connection.threadId);
+// });
 
 	// Code to generate the data and insert into database.
 	var t = '',
@@ -23,7 +23,8 @@ connection.connect(function(err) {
 		sum = 0,
 		products,
 		months,
-		state;
+		state,
+		dataArr = [];
 
 	months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 	products = ['Tea', 'Espresso', 'Latte', 'Green Tea'];
@@ -40,22 +41,28 @@ connection.connect(function(err) {
 	for (y = 0; y < year.length; y++) {
 		for (s = 0; s < state.length; s++) {
 			for (p = 0; p < products.length; p++) {
-				qry +=  ' (';
 				sum = 0;
 			  	for (m = 0; m < months.length; m++) {
 			  		val = randomNum((yearVal[y] * 0.5) + 8000, yearVal[y] + 15000);
 			  		sum += val;
-					qry +=  val + ', ';
+					qry +=  ' ( "' + year[y] + '", "' + products[p] + '", "' + state[s] + '", "' + months[m] + '", ' + val + '),\n';
 					t +=  val + '\t';
+					dataArr.push({
+						year: year[y],
+						product: products[p],
+						state: state[s],
+						month: months[m],
+						sale: val
+					});
 			  	}
-				qry +=  sum + ', ' + year[y] + ', "' + products[p] + '", "' + state[s] + '" ' + '),\n';
+				// qry +=  sum + ', ' + year[y] + ', "' + products[p] + '", "' + state[s] + '", ' + val + '),\n';
 			  	// t += '\n';
 			  	t += sum + '\t' + year[y] + '\t' + products[p] + '\t' + state[s] + '\n';
 			}
 		}
 	}
 
-	// qry = "INSERT INTO `monthly_sales` (`jan`, `feb`, `mar`, `apr`, `may`, `jun`, `jul`, `aug`, `sep`, `oct`, `nov`, `dec`, `sum`, `year`, `product`, `state`) VALUES " + qry;
+	// qry = "INSERT INTO `monthly_sales` (`year`, `product`, `state`, `month`, `sale`) VALUES " + qry;
 	// qry = qry.replace(/\),\n$/, ')');
 	// console.log(qry);
 	// // Clear the table
@@ -63,6 +70,118 @@ connection.connect(function(err) {
 	// // Insert new data in the table
 	// connection.query(qry);
 
+	fs.writeFileSync('data.js', 'yearRevenue = ' + JSON.stringify(dataArr, null, 4) + ';\n');
+
+
+	// connection.query("SELECT * FROM `monthly_sales` WHERE 1", function(err, rows, fields) {
+	//   	if (err) throw err;
+	// 	for (var j in rows) {
+	// 		// ds.data.push({value: rows[0][j]});
+	// 		// console.log('Result: \n', JSON.stringify(rows, null, 4));
+	// 		fs.writeFileSync('data.js', 'yearRevenue = ' + JSON.stringify(rows, null, 4) + '\n');
+	// 		endConnection();
+	// 	}
+	// });
+
+fn = [
+	"",
+	"function productRevenue () {",
+	"    var i,",
+	"        l,",
+	"        data;",
+	"        productObj = {},",
+	"        chartData = {chart:{caption: 'Product Revenue', theme: 'fint'}, data:[]};",
+	"",
+	"    for (i = 0, l = yearRevenue.length; i < l; i++) {",
+	"        data = yearRevenue[i];",
+	"        !productObj[data.product] && (productObj[data.product] = 0);",
+	"        productObj[data.product] += data.sale;",
+	"    }",
+	"",
+	"    for (i in productObj) {",
+	"        chartData.data.push({label: i, value: productObj[i]});",
+	"    }",
+	"    return chartData;",
+	"}",
+	"",
+	"function productMonthlySale () {",
+	"    var productObj = {},",
+	"        chartData = {chart:{caption: 'Yearly Sale', theme: 'fint'}, categories: [{category: []}], dataset:[]},",
+	"        prodDatasetMap = {},",
+	"        c = 0,",
+	"        i,",
+	"        l,",
+	"        data;",
+	"",
+	"    for (i = 0, l = yearRevenue.length; i < l; i++) {",
+	"        data = yearRevenue[i];",
+	"        if (!productObj[data.year]) {",
+	"            chartData.categories[0].category.push({label: data.year});",
+	"            (productObj[data.year] = {});",
+	"        }",
+	"        if (!productObj[data.year][data.product]) {",
+	"            if (!prodDatasetMap[data.product]) {",
+	"                prodDatasetMap[data.product] = ++c;",
+	"            }",
+	"            productObj[data.year][data.product] = {dataset: prodDatasetMap[data.product], value: 0};",
+	"        }",
+	"        productObj[data.year][data.product].value += data.sale;",
+	"    }",
+	"",
+	"    for (i in productObj) {",
+	"        for (j in productObj[i]) {",
+	"            if (!chartData.dataset[productObj[i][j].dataset - 1]) {",
+	"                chartData.dataset.push({seriesName: j, data: []});",
+	"            }",
+	"            dataset = chartData.dataset[productObj[i][j].dataset - 1];",
+	"            dataset.data.push({value: productObj[i][j].value});",
+	"        }",
+	"    }",
+	"    return chartData;",
+	"}",
+	"",
+	"function salesByState () {",
+	"    var productObj = {},",
+	"        chartData = {chart:{caption: 'Sales by State', theme: 'fint'}, categories: [{category: []}], dataset:[]},",
+	"        prodDatasetMap = {},",
+	"        c = 0,",
+	"        i,",
+	"        l,",
+	"        data;",
+	"",
+	"    for (i = 0, l = yearRevenue.length; i < l; i++) {",
+	"        data = yearRevenue[i];",
+	"        if (!productObj[data.state]) {",
+	"            chartData.categories[0].category.push({label: data.state});",
+	"            (productObj[data.state] = {});",
+	"        }",
+	"        if (!productObj[data.state][data.product]) {",
+	"            if (!prodDatasetMap[data.product]) {",
+	"                prodDatasetMap[data.product] = ++c;",
+	"            }",
+	"            productObj[data.state][data.product] = {dataset: prodDatasetMap[data.product], value: 0};",
+	"        }",
+	"        productObj[data.state][data.product].value += data.sale;",
+	"    }",
+	"",
+	"",
+	"    for (i in productObj) {",
+	"        for (j in productObj[i]) {",
+	"            if (!chartData.dataset[productObj[i][j].dataset - 1]) {",
+	"                chartData.dataset.push({seriesName: j, data: []});",
+	"            }",
+	"            dataset = chartData.dataset[productObj[i][j].dataset - 1];",
+	"            dataset.data.push({value: productObj[i][j].value});",
+	"        }",
+	"    }",
+	"    return chartData;",
+	"}",
+
+];
+
+fs.appendFileSync('data.js', '\n' + fn.join('\n'));
+
+return;
 
 jsonData = {chart:{}, "categories": [{"category": []}], dataset:[]};
 for (var i in months) {

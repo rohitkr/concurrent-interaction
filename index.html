@@ -4,6 +4,9 @@
         <title>Flash and JavaScript (RED) Renderer Comparison - FusionCharts</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <script type="text/javascript" src="node_modules/fusioncharts/fusioncharts.js"></script>
+        <script type="text/javascript" src="node_modules/fusioncharts/themes/fusioncharts.theme.fint.js"></script>
+        <script type="text/javascript" src="node_modules/fusioncharts/themes/fusioncharts.theme.zune.js"></script>
+        <script type="text/javascript" src="node_modules/fusioncharts/themes/fusioncharts.theme.ocean.js"></script>
         <script type="text/javascript" src="data.js"></script>
         <style type="text/css">
         	.container {
@@ -38,12 +41,12 @@
 	        }
 
         	FusionCharts.ready(function () {
-        		renderChart('StackedColumn2d', 1, yearRevenue);
-        		renderChart('Line', 2, data);
-        		renderChart('Area2D', 3, data);
-        		renderChart('Bar2D', 4, data);
-        		renderChart('Spline', 5, data);
-        		renderChart('SplineArea', 6, data);
+        		renderChart('Column2D', 1, productRevenue());
+        		renderChart('StackedColumn2D', 2, productMonthlySale());
+        		renderChart('StackedBar2D', 3, salesByState());
+        		renderChart('Pie2D', 4, productRevenue());
+        		// renderChart('Spline', 5, data);
+        		// renderChart('SplineArea', 6, data);
 	        });
 
         </script>

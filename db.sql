@@ -32,7 +32,7 @@ CREATE TABLE `monthly_sales` (
 -- Dumping data for table `monthly_sales`
 --
 
-INSERT INTO `monthly_sales` (`product`, `year`, `state`, `jan`, `feb`, `mar`, `apr`, `may`, `jun`, `jul`, `aug`, `sep`, `oct`, `nov`, `dec`, `sum`) VALUES
+INSERT INTO `monthly_sales2` (`product`, `year`, `state`, `jan`, `feb`, `mar`, `apr`, `may`, `jun`, `jul`, `aug`, `sep`, `oct`, `nov`, `dec`, `sum`) VALUES
 ('Tea', 2010, 'New York', 15730, 16869, 15998, 16684, 14704, 16225, 13635, 9204, 14278, 16899, 10232, 9512, 169970),
 ('Espresso', 2010, 'New York', 14817, 16427, 9437, 14479, 9716, 15741, 14875, 10719, 15669, 12011, 15421, 14893, 164205),
 ('Latte', 2010, 'New York', 15938, 14604, 16475, 14093, 14141, 12983, 13292, 10754, 10001, 11687, 9389, 10696, 154053),
