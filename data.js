@@ -4,5040 +4,5040 @@ yearRevenue = [
         "product": "Tea",
         "state": "New York",
         "month": "Jan",
-        "sale": 11101
+        "sale": 20809
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Feb",
-        "sale": 15877
+        "sale": 19500
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Mar",
-        "sale": 11244
+        "sale": 22865
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Apr",
-        "sale": 10145
+        "sale": 21131
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "May",
-        "sale": 15717
+        "sale": 22873
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Jun",
-        "sale": 14962
+        "sale": 20941
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Jul",
-        "sale": 9556
+        "sale": 18634
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Aug",
-        "sale": 11062
+        "sale": 16494
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Sep",
-        "sale": 15626
+        "sale": 16221
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Oct",
-        "sale": 11925
+        "sale": 20554
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Nov",
-        "sale": 14850
+        "sale": 19810
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "New York",
         "month": "Dec",
-        "sale": 13668
+        "sale": 20427
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Jan",
-        "sale": 16287
+        "sale": 31632
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Feb",
-        "sale": 10665
+        "sale": 34456
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Mar",
-        "sale": 12061
+        "sale": 30422
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Apr",
-        "sale": 13721
+        "sale": 34843
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "May",
-        "sale": 10722
+        "sale": 34786
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Jun",
-        "sale": 12987
+        "sale": 35916
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Jul",
-        "sale": 12577
+        "sale": 33285
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Aug",
-        "sale": 12284
+        "sale": 29704
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Sep",
-        "sale": 15744
+        "sale": 31511
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Oct",
-        "sale": 10357
+        "sale": 32890
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Nov",
-        "sale": 14569
+        "sale": 29692
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "New York",
         "month": "Dec",
-        "sale": 9897
+        "sale": 32712
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Jan",
-        "sale": 15753
+        "sale": 24872
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Feb",
-        "sale": 10368
+        "sale": 26267
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Mar",
-        "sale": 14856
+        "sale": 27694
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Apr",
-        "sale": 14081
+        "sale": 24923
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "May",
-        "sale": 15424
+        "sale": 28055
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Jun",
-        "sale": 14622
+        "sale": 23797
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Jul",
-        "sale": 15891
+        "sale": 26247
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Aug",
-        "sale": 13721
+        "sale": 25494
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Sep",
-        "sale": 15374
+        "sale": 26047
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Oct",
-        "sale": 16142
+        "sale": 21990
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Nov",
-        "sale": 16834
+        "sale": 24033
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New York",
         "month": "Dec",
-        "sale": 16306
+        "sale": 23400
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jan",
-        "sale": 16680
+        "sale": 32608
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Feb",
-        "sale": 12579
+        "sale": 28377
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Mar",
-        "sale": 16515
+        "sale": 28943
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Apr",
-        "sale": 9699
+        "sale": 31730
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "May",
-        "sale": 9178
+        "sale": 32240
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jun",
-        "sale": 15944
+        "sale": 31461
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jul",
-        "sale": 16823
+        "sale": 30582
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Aug",
-        "sale": 11565
+        "sale": 30863
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Sep",
-        "sale": 11247
+        "sale": 30655
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Oct",
-        "sale": 13781
+        "sale": 30547
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Nov",
-        "sale": 12551
+        "sale": 27049
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New York",
         "month": "Dec",
-        "sale": 9102
+        "sale": 31758
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Jan",
-        "sale": 9953
+        "sale": 27132
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Feb",
-        "sale": 14867
+        "sale": 24148
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Mar",
-        "sale": 10653
+        "sale": 26142
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Apr",
-        "sale": 14774
+        "sale": 29449
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "May",
-        "sale": 15136
+        "sale": 27833
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Jun",
-        "sale": 9618
+        "sale": 27137
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Jul",
-        "sale": 12186
+        "sale": 30325
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Aug",
-        "sale": 13384
+        "sale": 28467
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Sep",
-        "sale": 11794
+        "sale": 25367
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Oct",
-        "sale": 13442
+        "sale": 28428
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Nov",
-        "sale": 9127
+        "sale": 30008
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Washington",
         "month": "Dec",
-        "sale": 13388
+        "sale": 26235
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jan",
-        "sale": 9382
+        "sale": 38845
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Feb",
-        "sale": 15513
+        "sale": 42738
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Mar",
-        "sale": 11203
+        "sale": 37763
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Apr",
-        "sale": 10131
+        "sale": 44077
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "May",
-        "sale": 15001
+        "sale": 38367
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jun",
-        "sale": 14115
+        "sale": 43614
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jul",
-        "sale": 13523
+        "sale": 37991
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Aug",
-        "sale": 12981
+        "sale": 38703
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Sep",
-        "sale": 12297
+        "sale": 43618
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Oct",
-        "sale": 10550
+        "sale": 44413
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Nov",
-        "sale": 11890
+        "sale": 40434
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Washington",
         "month": "Dec",
-        "sale": 14592
+        "sale": 42609
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Jan",
-        "sale": 9491
+        "sale": 32161
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Feb",
-        "sale": 12469
+        "sale": 36074
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Mar",
-        "sale": 14698
+        "sale": 29499
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Apr",
-        "sale": 16055
+        "sale": 35381
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "May",
-        "sale": 9588
+        "sale": 30323
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Jun",
-        "sale": 14207
+        "sale": 36199
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Jul",
-        "sale": 14136
+        "sale": 36416
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Aug",
-        "sale": 12266
+        "sale": 36356
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Sep",
-        "sale": 16235
+        "sale": 30887
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Oct",
-        "sale": 15881
+        "sale": 32531
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Nov",
-        "sale": 12483
+        "sale": 36344
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Washington",
         "month": "Dec",
-        "sale": 15763
+        "sale": 31647
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jan",
-        "sale": 11957
+        "sale": 40388
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Feb",
-        "sale": 12737
+        "sale": 41465
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Mar",
-        "sale": 16613
+        "sale": 36563
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Apr",
-        "sale": 15690
+        "sale": 39505
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "May",
-        "sale": 12537
+        "sale": 41271
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jun",
-        "sale": 16923
+        "sale": 39749
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jul",
-        "sale": 12384
+        "sale": 39343
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Aug",
-        "sale": 15097
+        "sale": 38988
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Sep",
-        "sale": 16070
+        "sale": 35478
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Oct",
-        "sale": 16412
+        "sale": 36354
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Nov",
-        "sale": 12674
+        "sale": 38896
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Dec",
-        "sale": 10964
+        "sale": 36235
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Jan",
-        "sale": 10536
+        "sale": 20810
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Feb",
-        "sale": 12216
+        "sale": 17649
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Mar",
-        "sale": 14663
+        "sale": 20639
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Apr",
-        "sale": 14922
+        "sale": 14499
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "May",
-        "sale": 12567
+        "sale": 20107
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Jun",
-        "sale": 9738
+        "sale": 15535
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 14188
+        "sale": 17334
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 14029
+        "sale": 16450
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 15846
+        "sale": 19149
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 13014
+        "sale": 17021
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 15186
+        "sale": 18039
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 14921
+        "sale": 20810
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jan",
-        "sale": 10300
+        "sale": 32604
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Feb",
-        "sale": 14107
+        "sale": 33318
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Mar",
-        "sale": 16174
+        "sale": 30034
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Apr",
-        "sale": 12727
+        "sale": 33629
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "May",
-        "sale": 9699
+        "sale": 32217
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jun",
-        "sale": 16940
+        "sale": 28604
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jul",
-        "sale": 13532
+        "sale": 30152
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Aug",
-        "sale": 13028
+        "sale": 30947
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Sep",
-        "sale": 14661
+        "sale": 28671
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Oct",
-        "sale": 16333
+        "sale": 32064
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Nov",
-        "sale": 12286
+        "sale": 29922
     },
     {
         "year": 2013,
         "product": "Espresso",
         "state": "Texas",
         "month": "Dec",
-        "sale": 16394
+        "sale": 34181
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Jan",
-        "sale": 16097
+        "sale": 20123
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Feb",
-        "sale": 16571
+        "sale": 22024
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Mar",
-        "sale": 14290
+        "sale": 24533
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Apr",
-        "sale": 13683
+        "sale": 23300
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "May",
-        "sale": 11249
+        "sale": 24419
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Jun",
-        "sale": 9578
+        "sale": 23661
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Jul",
-        "sale": 11413
+        "sale": 26261
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Aug",
-        "sale": 9500
+        "sale": 25681
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Sep",
-        "sale": 15267
+        "sale": 21645
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Oct",
-        "sale": 14165
+        "sale": 25985
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Nov",
-        "sale": 9776
+        "sale": 19532
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "Texas",
         "month": "Dec",
-        "sale": 16915
+        "sale": 20512
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jan",
-        "sale": 16966
+        "sale": 27918
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Feb",
-        "sale": 16717
+        "sale": 28983
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Mar",
-        "sale": 14838
+        "sale": 29578
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Apr",
-        "sale": 16693
+        "sale": 30717
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "May",
-        "sale": 14871
+        "sale": 25885
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jun",
-        "sale": 16736
+        "sale": 25881
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 13607
+        "sale": 27668
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 11538
+        "sale": 28646
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 11957
+        "sale": 28870
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 16570
+        "sale": 30492
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 13744
+        "sale": 24857
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 9737
+        "sale": 30252
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 11507
+        "sale": 15054
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 15455
+        "sale": 18412
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 12145
+        "sale": 19036
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 10081
+        "sale": 18404
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "May",
-        "sale": 14679
+        "sale": 17622
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 10255
+        "sale": 17803
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 13497
+        "sale": 14061
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 10719
+        "sale": 16999
     },
     {
         "year": 2013,
         "product": "Tea",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 13902
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 14731
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 15102
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 14552
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jan",
-        "sale": 11475
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Feb",
-        "sale": 16136
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Mar",
-        "sale": 14117
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Apr",
-        "sale": 15653
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "May",
-        "sale": 11170
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jun",
-        "sale": 10924
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jul",
-        "sale": 11816
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 11133
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Sep",
-        "sale": 10585
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 12633
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 16050
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 10380
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jan",
-        "sale": 10227
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Feb",
-        "sale": 14503
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Mar",
-        "sale": 10356
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Apr",
-        "sale": 10419
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "May",
-        "sale": 11158
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jun",
-        "sale": 13391
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jul",
-        "sale": 16964
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 13336
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Sep",
-        "sale": 14345
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 14216
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 15309
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 14782
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Jan",
-        "sale": 11879
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Feb",
-        "sale": 16869
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Mar",
-        "sale": 15393
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Apr",
-        "sale": 15549
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "May",
-        "sale": 12733
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Jun",
-        "sale": 12569
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Jul",
-        "sale": 16752
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 9697
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Sep",
-        "sale": 11827
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 16879
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 10458
-    },
-    {
-        "year": 2013,
-        "product": "Green Tea",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 16044
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Jan",
-        "sale": 9534
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Feb",
-        "sale": 13796
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Mar",
-        "sale": 12995
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Apr",
-        "sale": 11680
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "May",
-        "sale": 16463
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Jun",
-        "sale": 11454
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Jul",
-        "sale": 10504
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Aug",
-        "sale": 11708
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Sep",
-        "sale": 12192
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Oct",
-        "sale": 15603
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Nov",
-        "sale": 10863
-    },
-    {
-        "year": 2013,
-        "product": "Tea",
-        "state": "New Mexico",
-        "month": "Dec",
-        "sale": 15175
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Jan",
-        "sale": 13241
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Feb",
-        "sale": 11330
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Mar",
-        "sale": 13475
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Apr",
-        "sale": 12054
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "May",
-        "sale": 10439
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Jun",
-        "sale": 9573
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Jul",
-        "sale": 11747
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Aug",
-        "sale": 14433
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Sep",
-        "sale": 13049
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Oct",
-        "sale": 15268
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Nov",
-        "sale": 16748
-    },
-    {
-        "year": 2013,
-        "product": "Espresso",
-        "state": "New Mexico",
-        "month": "Dec",
-        "sale": 10612
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "New Mexico",
-        "month": "Jan",
-        "sale": 14784
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "New Mexico",
-        "month": "Feb",
-        "sale": 12404
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "New Mexico",
-        "month": "Mar",
-        "sale": 11863
-    },
-    {
-        "year": 2013,
-        "product": "Latte",
-        "state": "New Mexico",
-        "month": "Apr",
         "sale": 14496
     },
     {
         "year": 2013,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 15535
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 14514
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 14742
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jan",
+        "sale": 31323
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Feb",
+        "sale": 30443
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Mar",
+        "sale": 28440
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Apr",
+        "sale": 30820
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "May",
+        "sale": 32614
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jun",
+        "sale": 28871
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jul",
+        "sale": 32068
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 28213
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 28324
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 30553
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 31423
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 29551
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jan",
+        "sale": 21171
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Feb",
+        "sale": 19389
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Mar",
+        "sale": 21729
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Apr",
+        "sale": 24146
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "May",
+        "sale": 21281
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jun",
+        "sale": 23971
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jul",
+        "sale": 21752
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 20678
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 18734
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 22035
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 18416
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 21044
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Jan",
+        "sale": 28986
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Feb",
+        "sale": 23377
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Mar",
+        "sale": 26068
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Apr",
+        "sale": 29574
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "May",
+        "sale": 27567
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Jun",
+        "sale": 24122
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Jul",
+        "sale": 25214
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 28543
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 29471
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 29210
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 29411
+    },
+    {
+        "year": 2013,
+        "product": "Green Tea",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 28236
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Jan",
+        "sale": 19626
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Feb",
+        "sale": 21317
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Mar",
+        "sale": 22287
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Apr",
+        "sale": 19456
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "May",
+        "sale": 20601
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Jun",
+        "sale": 24153
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Jul",
+        "sale": 19265
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Aug",
+        "sale": 19837
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Sep",
+        "sale": 19695
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Oct",
+        "sale": 23671
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Nov",
+        "sale": 21827
+    },
+    {
+        "year": 2013,
+        "product": "Tea",
+        "state": "New Mexico",
+        "month": "Dec",
+        "sale": 23077
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Jan",
+        "sale": 36524
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Feb",
+        "sale": 36608
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Mar",
+        "sale": 33194
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Apr",
+        "sale": 33866
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "May",
+        "sale": 35763
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Jun",
+        "sale": 35143
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Jul",
+        "sale": 32698
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Aug",
+        "sale": 32325
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Sep",
+        "sale": 33718
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Oct",
+        "sale": 37201
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Nov",
+        "sale": 35529
+    },
+    {
+        "year": 2013,
+        "product": "Espresso",
+        "state": "New Mexico",
+        "month": "Dec",
+        "sale": 36200
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "New Mexico",
+        "month": "Jan",
+        "sale": 28957
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "New Mexico",
+        "month": "Feb",
+        "sale": 26365
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "New Mexico",
+        "month": "Mar",
+        "sale": 25477
+    },
+    {
+        "year": 2013,
+        "product": "Latte",
+        "state": "New Mexico",
+        "month": "Apr",
+        "sale": 24490
+    },
+    {
+        "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "May",
-        "sale": 15554
+        "sale": 24448
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 14724
+        "sale": 27185
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 10104
+        "sale": 24693
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 13162
+        "sale": 22961
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 16538
+        "sale": 26608
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 14830
+        "sale": 29529
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 10980
+        "sale": 27707
     },
     {
         "year": 2013,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 12255
+        "sale": 27088
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 16479
+        "sale": 31143
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 10537
+        "sale": 34128
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 12336
+        "sale": 30712
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 12376
+        "sale": 30776
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "May",
-        "sale": 12574
+        "sale": 30324
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 13093
+        "sale": 32677
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 10688
+        "sale": 33111
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 11158
+        "sale": 34961
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 12661
+        "sale": 29363
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 14019
+        "sale": 29151
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 15352
+        "sale": 34578
     },
     {
         "year": 2013,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Dec",
+        "sale": 33238
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Jan",
+        "sale": 23038
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Feb",
+        "sale": 19556
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Mar",
+        "sale": 17731
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Apr",
+        "sale": 17947
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "May",
+        "sale": 19436
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Jun",
+        "sale": 22237
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Jul",
+        "sale": 23986
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Aug",
+        "sale": 17924
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Sep",
+        "sale": 17662
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Oct",
+        "sale": 18201
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Nov",
+        "sale": 20997
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "New York",
+        "month": "Dec",
+        "sale": 21749
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Jan",
+        "sale": 32857
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Feb",
+        "sale": 33933
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Mar",
+        "sale": 31112
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Apr",
+        "sale": 37090
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "May",
+        "sale": 36072
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Jun",
+        "sale": 32434
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Jul",
+        "sale": 32154
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Aug",
+        "sale": 31823
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Sep",
+        "sale": 34655
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Oct",
+        "sale": 34389
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Nov",
+        "sale": 36119
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "New York",
+        "month": "Dec",
+        "sale": 37122
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Jan",
+        "sale": 28609
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Feb",
+        "sale": 27132
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Mar",
+        "sale": 27369
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Apr",
+        "sale": 25968
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "May",
+        "sale": 26235
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Jun",
+        "sale": 23676
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Jul",
+        "sale": 23373
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Aug",
+        "sale": 23696
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Sep",
+        "sale": 26416
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Oct",
+        "sale": 25301
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Nov",
+        "sale": 27204
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "New York",
+        "month": "Dec",
+        "sale": 22456
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Jan",
+        "sale": 27837
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Feb",
+        "sale": 27862
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Mar",
+        "sale": 29790
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Apr",
+        "sale": 33773
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "May",
+        "sale": 33602
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Jun",
+        "sale": 30770
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Jul",
+        "sale": 34749
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Aug",
+        "sale": 30791
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Sep",
+        "sale": 31376
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Oct",
+        "sale": 28958
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Nov",
+        "sale": 28592
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "New York",
+        "month": "Dec",
+        "sale": 33021
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Jan",
+        "sale": 30630
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Feb",
+        "sale": 31254
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Mar",
+        "sale": 28562
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Apr",
+        "sale": 29796
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "May",
+        "sale": 29514
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Jun",
+        "sale": 25081
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Jul",
+        "sale": 26667
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Aug",
+        "sale": 26123
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Sep",
+        "sale": 29252
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Oct",
+        "sale": 30129
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Nov",
+        "sale": 30830
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Washington",
+        "month": "Dec",
+        "sale": 30100
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Jan",
+        "sale": 44068
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Feb",
+        "sale": 38642
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Mar",
+        "sale": 39000
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Apr",
+        "sale": 43903
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "May",
+        "sale": 42761
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Jun",
+        "sale": 42960
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Jul",
+        "sale": 43804
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Aug",
+        "sale": 40475
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Sep",
+        "sale": 40080
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Oct",
+        "sale": 42290
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Nov",
+        "sale": 44449
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Washington",
+        "month": "Dec",
+        "sale": 45193
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Jan",
+        "sale": 32557
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Feb",
+        "sale": 31341
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Mar",
+        "sale": 35238
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Apr",
+        "sale": 33369
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "May",
+        "sale": 31957
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Jun",
+        "sale": 30692
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Jul",
+        "sale": 32064
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Aug",
+        "sale": 33213
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Sep",
+        "sale": 33399
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Oct",
+        "sale": 35479
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Nov",
+        "sale": 36640
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Washington",
+        "month": "Dec",
+        "sale": 35712
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Jan",
+        "sale": 39992
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Feb",
+        "sale": 41800
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Mar",
+        "sale": 41926
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Apr",
+        "sale": 42511
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "May",
+        "sale": 41736
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Jun",
+        "sale": 37058
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Jul",
+        "sale": 38919
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Aug",
+        "sale": 39347
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Sep",
+        "sale": 39438
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Oct",
+        "sale": 39199
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Nov",
+        "sale": 36183
+    },
+    {
+        "year": 2014,
+        "product": "Green Tea",
+        "state": "Washington",
+        "month": "Dec",
+        "sale": 36822
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "Jan",
+        "sale": 15377
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "Feb",
+        "sale": 18299
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "Mar",
+        "sale": 21762
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "Apr",
+        "sale": 21235
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "May",
+        "sale": 17307
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Texas",
+        "month": "Jun",
         "sale": 15656
     },
     {
         "year": 2014,
         "product": "Tea",
-        "state": "New York",
-        "month": "Jan",
-        "sale": 16437
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Feb",
-        "sale": 15500
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Mar",
-        "sale": 12596
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Apr",
-        "sale": 13643
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "May",
-        "sale": 15278
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Jun",
-        "sale": 11840
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Jul",
-        "sale": 16549
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Aug",
-        "sale": 10166
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Sep",
-        "sale": 16710
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Oct",
-        "sale": 14750
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Nov",
-        "sale": 15047
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "New York",
-        "month": "Dec",
-        "sale": 16125
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Jan",
-        "sale": 9523
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Feb",
-        "sale": 16381
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Mar",
-        "sale": 17173
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Apr",
-        "sale": 17223
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "May",
-        "sale": 16759
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Jun",
-        "sale": 16640
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Jul",
-        "sale": 11782
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Aug",
-        "sale": 10105
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Sep",
-        "sale": 11325
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Oct",
-        "sale": 13337
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Nov",
-        "sale": 17279
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "New York",
-        "month": "Dec",
-        "sale": 15914
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Jan",
-        "sale": 13420
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Feb",
-        "sale": 16834
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Mar",
-        "sale": 11915
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Apr",
-        "sale": 14783
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "May",
-        "sale": 15042
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Jun",
-        "sale": 16094
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Jul",
-        "sale": 14815
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Aug",
-        "sale": 9636
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Sep",
-        "sale": 11357
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Oct",
-        "sale": 16637
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Nov",
-        "sale": 15380
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "New York",
-        "month": "Dec",
-        "sale": 12375
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Jan",
-        "sale": 15331
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Feb",
-        "sale": 15078
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Mar",
-        "sale": 16521
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Apr",
-        "sale": 13605
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "May",
-        "sale": 12666
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Jun",
-        "sale": 15566
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Jul",
-        "sale": 13333
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Aug",
-        "sale": 14583
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Sep",
-        "sale": 13487
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Oct",
-        "sale": 12934
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Nov",
-        "sale": 10345
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "New York",
-        "month": "Dec",
-        "sale": 15164
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Jan",
-        "sale": 16227
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Feb",
-        "sale": 13943
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Mar",
-        "sale": 12179
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Apr",
-        "sale": 12806
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "May",
-        "sale": 12415
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Jun",
-        "sale": 10038
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Jul",
-        "sale": 13325
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Aug",
-        "sale": 9607
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Sep",
-        "sale": 12642
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Oct",
-        "sale": 16831
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Nov",
-        "sale": 12739
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Washington",
-        "month": "Dec",
-        "sale": 14667
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Jan",
-        "sale": 12470
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Feb",
-        "sale": 17552
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Mar",
-        "sale": 14349
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Apr",
-        "sale": 11165
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "May",
-        "sale": 12652
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Jun",
-        "sale": 11177
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Jul",
-        "sale": 11634
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Aug",
-        "sale": 15551
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Sep",
-        "sale": 16977
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Oct",
-        "sale": 11674
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Nov",
-        "sale": 13416
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Washington",
-        "month": "Dec",
-        "sale": 14997
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Jan",
-        "sale": 17294
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Feb",
-        "sale": 14150
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Mar",
-        "sale": 15534
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Apr",
-        "sale": 17327
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "May",
-        "sale": 10935
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Jun",
-        "sale": 12144
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Jul",
-        "sale": 11926
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Aug",
-        "sale": 10603
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Sep",
-        "sale": 10473
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Oct",
-        "sale": 17623
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Nov",
-        "sale": 16467
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Washington",
-        "month": "Dec",
-        "sale": 14318
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Jan",
-        "sale": 11484
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Feb",
-        "sale": 14642
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Mar",
-        "sale": 11297
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Apr",
-        "sale": 10119
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "May",
-        "sale": 12571
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Jun",
-        "sale": 13673
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Jul",
-        "sale": 16138
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Aug",
-        "sale": 10524
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Sep",
-        "sale": 14010
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Oct",
-        "sale": 14092
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Nov",
-        "sale": 16312
-    },
-    {
-        "year": 2014,
-        "product": "Green Tea",
-        "state": "Washington",
-        "month": "Dec",
-        "sale": 13872
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "Jan",
-        "sale": 9535
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "Feb",
-        "sale": 15432
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "Mar",
-        "sale": 14008
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "Apr",
-        "sale": 10542
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "May",
-        "sale": 14619
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Texas",
-        "month": "Jun",
-        "sale": 12141
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 16316
+        "sale": 19710
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 17828
+        "sale": 19961
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 10705
+        "sale": 15808
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 11808
+        "sale": 15464
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 15685
+        "sale": 20281
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 17826
+        "sale": 20926
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jan",
-        "sale": 16469
+        "sale": 31779
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Feb",
-        "sale": 16305
+        "sale": 35432
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Mar",
-        "sale": 11924
+        "sale": 34452
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Apr",
-        "sale": 15347
+        "sale": 32912
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "May",
-        "sale": 10619
+        "sale": 32659
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jun",
-        "sale": 16210
+        "sale": 34691
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jul",
-        "sale": 10012
+        "sale": 28709
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Aug",
-        "sale": 17364
+        "sale": 34735
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Sep",
-        "sale": 17561
+        "sale": 30760
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Oct",
-        "sale": 15551
+        "sale": 33185
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Nov",
-        "sale": 11592
+        "sale": 31092
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "Texas",
         "month": "Dec",
-        "sale": 11762
+        "sale": 31959
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Jan",
-        "sale": 17282
+        "sale": 22578
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Feb",
-        "sale": 15927
+        "sale": 27064
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Mar",
-        "sale": 16285
+        "sale": 21466
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Apr",
-        "sale": 14810
+        "sale": 21980
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "May",
-        "sale": 13472
+        "sale": 24520
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Jun",
-        "sale": 12247
+        "sale": 25243
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Jul",
-        "sale": 17236
+        "sale": 27058
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Aug",
-        "sale": 16560
+        "sale": 21280
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Sep",
-        "sale": 14067
+        "sale": 21437
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Oct",
-        "sale": 10878
+        "sale": 24716
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Nov",
-        "sale": 14006
+        "sale": 22032
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Texas",
         "month": "Dec",
-        "sale": 14373
+        "sale": 22136
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jan",
-        "sale": 13987
+        "sale": 28477
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Feb",
-        "sale": 15400
+        "sale": 31885
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Mar",
-        "sale": 10950
+        "sale": 29684
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Apr",
-        "sale": 17040
+        "sale": 30344
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "May",
-        "sale": 16412
+        "sale": 31255
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jun",
-        "sale": 15655
+        "sale": 31537
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 10580
+        "sale": 30079
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 14087
+        "sale": 29751
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 16183
+        "sale": 29663
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 16077
+        "sale": 25927
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 10111
+        "sale": 27081
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 15739
+        "sale": 27301
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 12670
+        "sale": 16465
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 11292
+        "sale": 19701
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 16552
+        "sale": 18841
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 17477
+        "sale": 17576
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "May",
-        "sale": 12989
+        "sale": 20322
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 12283
+        "sale": 15817
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 10363
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 11727
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Sep",
-        "sale": 11360
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 10013
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 15400
-    },
-    {
-        "year": 2014,
-        "product": "Tea",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 13680
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jan",
-        "sale": 13987
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Feb",
-        "sale": 13725
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Mar",
-        "sale": 13730
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Apr",
-        "sale": 17520
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "May",
-        "sale": 17428
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jun",
-        "sale": 15646
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Jul",
-        "sale": 14827
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 11299
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Sep",
-        "sale": 14439
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Oct",
-        "sale": 12047
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Nov",
-        "sale": 16187
-    },
-    {
-        "year": 2014,
-        "product": "Espresso",
-        "state": "Ohio",
-        "month": "Dec",
-        "sale": 12363
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jan",
-        "sale": 12058
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Feb",
-        "sale": 11241
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Mar",
-        "sale": 16213
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Apr",
-        "sale": 13823
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "May",
-        "sale": 14237
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jun",
-        "sale": 15880
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Jul",
-        "sale": 12754
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Aug",
-        "sale": 16862
-    },
-    {
-        "year": 2014,
-        "product": "Latte",
-        "state": "Ohio",
-        "month": "Sep",
         "sale": 17683
     },
     {
         "year": 2014,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 17856
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 19333
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 14506
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 15849
+    },
+    {
+        "year": 2014,
+        "product": "Tea",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 19307
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jan",
+        "sale": 27309
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Feb",
+        "sale": 30191
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Mar",
+        "sale": 33066
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Apr",
+        "sale": 27008
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "May",
+        "sale": 28310
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jun",
+        "sale": 31992
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Jul",
+        "sale": 32860
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 33464
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 27797
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Oct",
+        "sale": 27946
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Nov",
+        "sale": 29969
+    },
+    {
+        "year": 2014,
+        "product": "Espresso",
+        "state": "Ohio",
+        "month": "Dec",
+        "sale": 27182
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jan",
+        "sale": 21615
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Feb",
+        "sale": 23464
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Mar",
+        "sale": 22142
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Apr",
+        "sale": 18730
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "May",
+        "sale": 23235
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jun",
+        "sale": 25037
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Jul",
+        "sale": 21944
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Aug",
+        "sale": 23079
+    },
+    {
+        "year": 2014,
+        "product": "Latte",
+        "state": "Ohio",
+        "month": "Sep",
+        "sale": 23681
+    },
+    {
+        "year": 2014,
         "product": "Latte",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 16766
+        "sale": 24720
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 10237
+        "sale": 20183
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 14760
+        "sale": 19059
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 11637
+        "sale": 26758
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 17838
+        "sale": 28598
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 14804
+        "sale": 25186
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 12152
+        "sale": 27413
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "May",
-        "sale": 17300
+        "sale": 30798
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 13407
+        "sale": 24237
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 15836
+        "sale": 25181
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 17925
+        "sale": 25997
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 11098
+        "sale": 27384
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 11639
+        "sale": 29052
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 17908
+        "sale": 27059
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 11086
+        "sale": 31092
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 13670
+        "sale": 25238
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 10606
+        "sale": 19379
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 14592
+        "sale": 21658
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 10254
+        "sale": 23018
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "May",
-        "sale": 14503
+        "sale": 23303
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 10117
+        "sale": 23743
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 14715
+        "sale": 23314
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 16149
+        "sale": 21227
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 16420
+        "sale": 23969
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 12073
+        "sale": 19390
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 13961
+        "sale": 19113
     },
     {
         "year": 2014,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 14570
+        "sale": 22927
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 17811
+        "sale": 37732
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 16044
+        "sale": 38699
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 13922
+        "sale": 33789
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 13456
+        "sale": 34191
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "May",
-        "sale": 12515
+        "sale": 33448
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 12043
+        "sale": 38057
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 13504
+        "sale": 36481
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 12577
+        "sale": 34877
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 10821
+        "sale": 33455
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 13162
+        "sale": 34275
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 15169
+        "sale": 38192
     },
     {
         "year": 2014,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 13218
+        "sale": 33713
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 17430
+        "sale": 27883
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 13201
+        "sale": 26918
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 17710
+        "sale": 24087
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 17664
+        "sale": 26106
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "May",
-        "sale": 15581
+        "sale": 27725
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 11634
+        "sale": 25180
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 14425
+        "sale": 25012
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 15213
+        "sale": 25307
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 14958
+        "sale": 27501
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 17066
+        "sale": 30607
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 10066
+        "sale": 25594
     },
     {
         "year": 2014,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 14395
+        "sale": 30177
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 14768
+        "sale": 31239
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 16460
+        "sale": 31632
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 12416
+        "sale": 32719
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 12751
+        "sale": 31813
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "May",
-        "sale": 9931
+        "sale": 34154
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 16859
+        "sale": 33847
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 12637
+        "sale": 31634
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 14963
+        "sale": 35730
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 14058
+        "sale": 32299
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 10584
+        "sale": 33426
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 13464
+        "sale": 32648
     },
     {
         "year": 2014,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 16760
+        "sale": 31419
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Jan",
-        "sale": 10177
+        "sale": 22281
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Feb",
-        "sale": 12783
+        "sale": 18510
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Mar",
-        "sale": 14550
+        "sale": 24917
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Apr",
-        "sale": 16998
+        "sale": 20772
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "May",
-        "sale": 16059
+        "sale": 18335
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Jun",
-        "sale": 14545
+        "sale": 21947
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Jul",
-        "sale": 13809
+        "sale": 23008
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Aug",
-        "sale": 10275
+        "sale": 20165
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Sep",
-        "sale": 10659
+        "sale": 24570
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Oct",
-        "sale": 17561
+        "sale": 21042
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Nov",
-        "sale": 18148
+        "sale": 20469
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New York",
         "month": "Dec",
-        "sale": 12801
+        "sale": 22667
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Jan",
-        "sale": 12153
+        "sale": 34562
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Feb",
-        "sale": 17232
+        "sale": 32565
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Mar",
-        "sale": 13577
+        "sale": 33207
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Apr",
-        "sale": 18928
+        "sale": 32638
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "May",
-        "sale": 16061
+        "sale": 34089
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Jun",
-        "sale": 17121
+        "sale": 32715
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Jul",
-        "sale": 16962
+        "sale": 34917
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Aug",
-        "sale": 13566
+        "sale": 38148
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Sep",
-        "sale": 16294
+        "sale": 32337
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Oct",
-        "sale": 12016
+        "sale": 32289
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Nov",
-        "sale": 18053
+        "sale": 38371
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New York",
         "month": "Dec",
-        "sale": 11233
+        "sale": 35412
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Jan",
-        "sale": 17088
+        "sale": 30184
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Feb",
-        "sale": 15383
+        "sale": 27550
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Mar",
-        "sale": 15959
+        "sale": 23408
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Apr",
-        "sale": 16493
+        "sale": 27778
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "May",
-        "sale": 18462
+        "sale": 29746
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Jun",
-        "sale": 14219
+        "sale": 25955
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Jul",
-        "sale": 10867
+        "sale": 28141
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Aug",
-        "sale": 17520
+        "sale": 29355
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Sep",
-        "sale": 18344
+        "sale": 28510
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Oct",
-        "sale": 18104
+        "sale": 27673
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Nov",
-        "sale": 11110
+        "sale": 28780
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New York",
         "month": "Dec",
-        "sale": 12567
+        "sale": 29959
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jan",
-        "sale": 12038
+        "sale": 31342
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Feb",
-        "sale": 13147
+        "sale": 30085
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Mar",
-        "sale": 10626
+        "sale": 30801
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Apr",
-        "sale": 13149
+        "sale": 34320
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "May",
-        "sale": 13854
+        "sale": 32385
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jun",
-        "sale": 14509
+        "sale": 28977
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Jul",
-        "sale": 16527
+        "sale": 35088
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Aug",
-        "sale": 11121
+        "sale": 30544
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Sep",
-        "sale": 17169
+        "sale": 34970
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Oct",
-        "sale": 10790
+        "sale": 30434
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Nov",
-        "sale": 11223
+        "sale": 32352
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New York",
         "month": "Dec",
-        "sale": 10291
+        "sale": 29054
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Jan",
-        "sale": 11645
+        "sale": 27364
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Feb",
-        "sale": 15607
+        "sale": 31372
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Mar",
-        "sale": 15269
+        "sale": 30961
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Apr",
-        "sale": 14911
+        "sale": 29985
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "May",
-        "sale": 11200
+        "sale": 31729
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Jun",
-        "sale": 18449
+        "sale": 29670
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Jul",
-        "sale": 14919
+        "sale": 32351
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Aug",
-        "sale": 13258
+        "sale": 30808
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Sep",
-        "sale": 14062
+        "sale": 26121
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Oct",
-        "sale": 14317
+        "sale": 32595
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Nov",
-        "sale": 11075
+        "sale": 29237
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Washington",
         "month": "Dec",
-        "sale": 10134
+        "sale": 32274
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jan",
-        "sale": 18962
+        "sale": 43655
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Feb",
-        "sale": 15601
+        "sale": 45327
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Mar",
-        "sale": 12956
+        "sale": 39943
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Apr",
-        "sale": 16905
+        "sale": 46380
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "May",
-        "sale": 10195
+        "sale": 44648
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jun",
-        "sale": 10454
+        "sale": 44455
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Jul",
-        "sale": 18902
+        "sale": 43740
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Aug",
-        "sale": 15230
+        "sale": 44378
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Sep",
-        "sale": 16193
+        "sale": 46574
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Oct",
-        "sale": 10582
+        "sale": 46291
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Nov",
-        "sale": 10273
+        "sale": 44568
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Washington",
         "month": "Dec",
-        "sale": 16059
+        "sale": 42072
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Jan",
-        "sale": 17647
+        "sale": 35942
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Feb",
-        "sale": 16684
+        "sale": 34807
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Mar",
-        "sale": 18579
+        "sale": 31481
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Apr",
-        "sale": 13813
+        "sale": 34946
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "May",
-        "sale": 15237
+        "sale": 34810
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Jun",
-        "sale": 14404
+        "sale": 32279
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Jul",
-        "sale": 10258
+        "sale": 36280
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Aug",
-        "sale": 13174
+        "sale": 34492
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Sep",
-        "sale": 18441
+        "sale": 33207
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Oct",
-        "sale": 10899
+        "sale": 35200
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Nov",
-        "sale": 13980
+        "sale": 31791
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Washington",
         "month": "Dec",
-        "sale": 18898
+        "sale": 38279
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jan",
-        "sale": 16395
+        "sale": 42190
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Feb",
-        "sale": 14471
+        "sale": 42358
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Mar",
-        "sale": 15362
+        "sale": 39024
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Apr",
-        "sale": 16880
+        "sale": 37708
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "May",
-        "sale": 14265
+        "sale": 40086
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jun",
-        "sale": 13478
+        "sale": 43626
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Jul",
-        "sale": 13980
+        "sale": 38460
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Aug",
-        "sale": 12179
+        "sale": 40771
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Sep",
-        "sale": 18433
+        "sale": 39584
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Oct",
-        "sale": 10111
+        "sale": 37673
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Nov",
-        "sale": 12487
+        "sale": 37352
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Washington",
         "month": "Dec",
-        "sale": 15658
+        "sale": 41207
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Jan",
-        "sale": 17685
+        "sale": 18695
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Feb",
-        "sale": 11010
+        "sale": 22271
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Mar",
-        "sale": 13940
+        "sale": 20964
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Apr",
-        "sale": 12544
+        "sale": 17086
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "May",
-        "sale": 14889
+        "sale": 19278
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Jun",
-        "sale": 16808
+        "sale": 20350
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 18307
+        "sale": 21919
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 14708
+        "sale": 17166
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 15444
+        "sale": 21900
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 16668
+        "sale": 16496
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 15371
+        "sale": 17500
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 17332
+        "sale": 17347
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jan",
-        "sale": 17023
+        "sale": 31411
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Feb",
-        "sale": 10940
+        "sale": 35449
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Mar",
-        "sale": 17499
+        "sale": 32682
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Apr",
-        "sale": 12577
+        "sale": 33936
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "May",
-        "sale": 14547
+        "sale": 32205
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jun",
-        "sale": 13992
+        "sale": 31992
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Jul",
-        "sale": 11889
+        "sale": 35854
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Aug",
-        "sale": 18032
+        "sale": 30668
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Sep",
-        "sale": 15983
+        "sale": 34495
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Oct",
-        "sale": 10434
+        "sale": 33979
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Nov",
-        "sale": 16516
+        "sale": 33028
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Texas",
         "month": "Dec",
-        "sale": 18917
+        "sale": 34939
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Jan",
-        "sale": 14310
+        "sale": 26459
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Feb",
-        "sale": 17085
+        "sale": 26010
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Mar",
-        "sale": 10804
+        "sale": 23750
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Apr",
-        "sale": 12661
+        "sale": 27450
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "May",
-        "sale": 18520
+        "sale": 26244
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Jun",
-        "sale": 14959
+        "sale": 27551
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Jul",
-        "sale": 12234
+        "sale": 22971
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Aug",
-        "sale": 16643
+        "sale": 26151
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Sep",
-        "sale": 17229
+        "sale": 28233
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Oct",
-        "sale": 14340
+        "sale": 22882
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Nov",
-        "sale": 13922
+        "sale": 25841
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Texas",
         "month": "Dec",
-        "sale": 15574
+        "sale": 21651
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jan",
-        "sale": 14741
+        "sale": 30689
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Feb",
-        "sale": 11562
+        "sale": 31885
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Mar",
-        "sale": 12825
+        "sale": 28493
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Apr",
-        "sale": 10077
+        "sale": 28595
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "May",
-        "sale": 17886
+        "sale": 27738
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jun",
-        "sale": 16403
+        "sale": 31052
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Jul",
-        "sale": 13803
+        "sale": 31682
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Aug",
-        "sale": 13888
+        "sale": 28625
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Sep",
-        "sale": 10891
+        "sale": 31991
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Oct",
-        "sale": 15593
+        "sale": 33108
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Nov",
-        "sale": 18553
+        "sale": 31322
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Texas",
         "month": "Dec",
-        "sale": 16016
+        "sale": 28205
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 10828
+        "sale": 17274
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 10295
+        "sale": 20100
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 11341
+        "sale": 14875
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 13076
+        "sale": 14793
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "May",
-        "sale": 10796
+        "sale": 15703
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 13520
+        "sale": 15596
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 16267
+        "sale": 20812
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 16746
+        "sale": 20875
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 14847
+        "sale": 14910
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 11342
+        "sale": 19117
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 13661
+        "sale": 20053
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 14790
+        "sale": 20099
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 13887
+        "sale": 30932
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 17687
+        "sale": 32515
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 14140
+        "sale": 29630
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 10500
+        "sale": 30890
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "May",
-        "sale": 17414
+        "sale": 31972
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 16309
+        "sale": 29866
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 17011
+        "sale": 33933
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 18671
+        "sale": 30489
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 14376
+        "sale": 33252
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 17518
+        "sale": 34758
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 10740
+        "sale": 34538
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 10944
+        "sale": 30484
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 18052
+        "sale": 24470
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 18130
+        "sale": 25893
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 11002
+        "sale": 20162
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 10404
+        "sale": 23901
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "May",
-        "sale": 15368
+        "sale": 26588
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 12659
+        "sale": 24411
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 14587
+        "sale": 24884
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 14543
+        "sale": 23854
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 17216
+        "sale": 22455
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 15014
+        "sale": 26593
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 18817
+        "sale": 23527
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 17861
+        "sale": 23238
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jan",
-        "sale": 14119
+        "sale": 27190
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Feb",
-        "sale": 10617
+        "sale": 31932
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Mar",
-        "sale": 10426
+        "sale": 29240
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Apr",
-        "sale": 17905
+        "sale": 27236
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "May",
-        "sale": 10573
+        "sale": 27193
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jun",
-        "sale": 14277
+        "sale": 26836
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Jul",
-        "sale": 14539
+        "sale": 29539
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Aug",
-        "sale": 13945
+        "sale": 29330
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Sep",
-        "sale": 11080
+        "sale": 31111
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Oct",
-        "sale": 15693
+        "sale": 28668
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Nov",
-        "sale": 18689
+        "sale": 25992
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "Ohio",
         "month": "Dec",
-        "sale": 14375
+        "sale": 31402
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 18191
+        "sale": 23925
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 15402
+        "sale": 21513
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 11908
+        "sale": 24514
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 11590
+        "sale": 21458
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "May",
-        "sale": 12255
+        "sale": 21106
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 11599
+        "sale": 24938
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 18721
+        "sale": 25264
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 12595
+        "sale": 23895
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 17721
+        "sale": 22336
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 18319
+        "sale": 24811
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 15947
+        "sale": 24293
     },
     {
         "year": 2015,
         "product": "Tea",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 16313
+        "sale": 25232
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 14841
+        "sale": 35450
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 15229
+        "sale": 36640
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 12600
+        "sale": 38637
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 15898
+        "sale": 38570
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "May",
-        "sale": 16840
+        "sale": 35636
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 11407
+        "sale": 33791
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 12902
+        "sale": 37511
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 18715
+        "sale": 39027
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 11103
+        "sale": 34948
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 14933
+        "sale": 35169
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 15841
+        "sale": 36774
     },
     {
         "year": 2015,
         "product": "Espresso",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 18400
+        "sale": 38008
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 15820
+        "sale": 28066
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 13567
+        "sale": 27513
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 16884
+        "sale": 25110
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 13576
+        "sale": 31193
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "May",
-        "sale": 18596
+        "sale": 26363
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 13987
+        "sale": 25458
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 16342
+        "sale": 30023
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 13843
+        "sale": 31043
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 16876
+        "sale": 25875
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 10661
+        "sale": 25383
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 15566
+        "sale": 25117
     },
     {
         "year": 2015,
         "product": "Latte",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 14233
+        "sale": 25414
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jan",
-        "sale": 13102
+        "sale": 33881
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Feb",
-        "sale": 18992
+        "sale": 32328
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Mar",
-        "sale": 15291
+        "sale": 36236
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Apr",
-        "sale": 13533
+        "sale": 32261
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "May",
-        "sale": 15584
+        "sale": 32177
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jun",
-        "sale": 15385
+        "sale": 31321
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Jul",
-        "sale": 10162
+        "sale": 36694
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Aug",
-        "sale": 12261
+        "sale": 32494
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Sep",
-        "sale": 14628
+        "sale": 34425
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Oct",
-        "sale": 14295
+        "sale": 36391
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Nov",
-        "sale": 17588
+        "sale": 34191
     },
     {
         "year": 2015,
         "product": "Green Tea",
         "state": "New Mexico",
         "month": "Dec",
-        "sale": 11024
+        "sale": 35861
     }
 ];
 
@@ -5121,6 +5121,44 @@ function salesByState () {
         productObj[data.state][data.product].value += data.sale;
     }
 
+
+    for (i in productObj) {
+        for (j in productObj[i]) {
+            if (!chartData.dataset[productObj[i][j].dataset - 1]) {
+                chartData.dataset.push({seriesName: j, data: []});
+            }
+            dataset = chartData.dataset[productObj[i][j].dataset - 1];
+            dataset.data.push({value: productObj[i][j].value});
+        }
+    }
+    return chartData;
+}
+
+function salesByMonths (year) {
+    var productObj = {},
+        chartData = {chart:{caption: 'Monthly product Revenue for year ' + year, theme: 'fint'}, categories: [{category: []}], dataset:[]},
+        prodDatasetMap = {},
+        c = 0,
+        i,
+        l,
+        data;
+
+    for (i = 0, l = yearRevenue.length; i < l; i++) {
+        data = yearRevenue[i];
+        if (data.year = year) {
+            if (!productObj[data.month]) {
+                chartData.categories[0].category.push({label: data.month});
+                (productObj[data.month] = {});
+            }
+            if (!productObj[data.month][data.product]) {
+                if (!prodDatasetMap[data.product]) {
+                    prodDatasetMap[data.product] = ++c;
+                }
+                productObj[data.month][data.product] = {dataset: prodDatasetMap[data.product], value: 0};
+            }
+            productObj[data.month][data.product].value += data.sale;
+        }
+    }
 
     for (i in productObj) {
         for (j in productObj[i]) {

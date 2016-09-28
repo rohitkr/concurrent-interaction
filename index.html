@@ -44,7 +44,15 @@
         		renderChart('Column2D', 1, productRevenue());
         		renderChart('StackedColumn2D', 2, productMonthlySale());
         		renderChart('StackedBar2D', 3, salesByState());
-        		renderChart('Pie2D', 4, productRevenue());
+        		data = salesByMonths(2013);
+        		data.chart.showvalues = 0;
+        		renderChart('MsLine', 4, data);
+        		data = salesByMonths(2014);
+        		data.chart.showvalues = 0;
+        		renderChart('MsLine', 5, data);
+        		data = salesByMonths(2015);
+        		data.chart.showvalues = 0;
+        		renderChart('MsLine', 6, data);
         		// renderChart('Spline', 5, data);
         		// renderChart('SplineArea', 6, data);
 	        });

@@ -24,13 +24,28 @@ var fs = require('fs'),
 		products,
 		months,
 		state,
-		dataArr = [];
+		dataArr = [],
+		proVal,
+		stateVal;
 
 	months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 	products = ['Tea', 'Espresso', 'Latte', 'Green Tea'];
 	state = ['New York', 'Washington', 'Texas', 'Ohio', 'New Mexico'];
 	year = [2013, 2014, 2015];
 	yearVal = [2000, 3000, 4000, 5000, 7000, 6000];
+	proVal = {
+		'Tea': randomNum(500, 4000),
+		'Espresso': randomNum(10000, 20000),
+		'Latte': randomNum(5000, 10000),
+		'Green Tea': randomNum(10000, 15000)
+	};
+	stateVal = {
+		'New York': randomNum(2000, 5000),
+		'Washington': randomNum(7000, 20000),
+		'Texas': randomNum(500, 2000),
+		'Ohio': randomNum(100, 500),
+		'New Mexico': randomNum(2000, 8000)
+	};
 
 
 
@@ -43,7 +58,7 @@ var fs = require('fs'),
 			for (p = 0; p < products.length; p++) {
 				sum = 0;
 			  	for (m = 0; m < months.length; m++) {
-			  		val = randomNum((yearVal[y] * 0.5) + 8000, yearVal[y] + 15000);
+			  		val = randomNum((yearVal[y]) + proVal[products[p]] + stateVal[state[s]] + 8000, yearVal[y] + stateVal[state[s]] + proVal[products[p]] + 15000);
 			  		sum += val;
 					qry +=  ' ( "' + year[y] + '", "' + products[p] + '", "' + state[s] + '", "' + months[m] + '", ' + val + '),\n';
 					t +=  val + '\t';
@@ -176,7 +191,45 @@ fn = [
 	"    }",
 	"    return chartData;",
 	"}",
-
+	"",
+	"function salesByMonths (year) {",
+	"    var productObj = {},",
+	"        chartData = {chart:{caption: 'Monthly product Revenue for year ' + year, theme: 'fint'}, categories: [{category: []}], dataset:[]},",
+	"        prodDatasetMap = {},",
+	"        c = 0,",
+	"        i,",
+	"        l,",
+	"        data;",
+	"",
+	"    for (i = 0, l = yearRevenue.length; i < l; i++) {",
+	"        data = yearRevenue[i];",
+	"        if (data.year = year) {",
+	"            if (!productObj[data.month]) {",
+	"                chartData.categories[0].category.push({label: data.month});",
+	"                (productObj[data.month] = {});",
+	"            }",
+	"            if (!productObj[data.month][data.product]) {",
+	"                if (!prodDatasetMap[data.product]) {",
+	"                    prodDatasetMap[data.product] = ++c;",
+	"                }",
+	"                productObj[data.month][data.product] = {dataset: prodDatasetMap[data.product], value: 0};",
+	"            }",
+	"            productObj[data.month][data.product].value += data.sale;",
+	"        }",
+	"    }",
+	"",
+	"    for (i in productObj) {",
+	"        for (j in productObj[i]) {",
+	"            if (!chartData.dataset[productObj[i][j].dataset - 1]) {",
+	"                chartData.dataset.push({seriesName: j, data: []});",
+	"            }",
+	"            dataset = chartData.dataset[productObj[i][j].dataset - 1];",
+	"            dataset.data.push({value: productObj[i][j].value});",
+	"        }",
+	"    }",
+	"    return chartData;",
+	"}",
+	""
 ];
 
 fs.appendFileSync('data.js', '\n' + fn.join('\n'));
